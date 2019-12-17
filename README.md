@@ -6,4 +6,9 @@ git status
 git add -A
 git commit -m "initial commit"
 git checkout -b "index.html_and_index.js"
+    created a few files and saved them
+
+git add -A
+git commit -m "created my web files"
+
 
